@@ -2874,3 +2874,4 @@
 [√] Frame: 2872, Episode 22 https://facebook.com/702356205266519
 [X] Frame: 2873, Episode 22
 [X] Frame: 2873, Episode 23
+[X] Frame: 2873, Episode 23
