@@ -2865,3 +2865,11 @@
 [√] Frame: 2863, Episode 22 https://facebook.com/702314381937368
 [√] Frame: 2864, Episode 22 https://facebook.com/702315535270586
 [√] Frame: 2865, Episode 22 https://facebook.com/702316341937172
+[√] Frame: 2866, Episode 22 https://facebook.com/702350468600426
+[√] Frame: 2867, Episode 22 https://facebook.com/702351225267017
+[√] Frame: 2868, Episode 22 https://facebook.com/702352111933595
+[√] Frame: 2869, Episode 22 https://facebook.com/702352958600177
+[√] Frame: 2870, Episode 22 https://facebook.com/702353658600107
+[√] Frame: 2871, Episode 22 https://facebook.com/702354758599997
+[√] Frame: 2872, Episode 22 https://facebook.com/702356205266519
+[X] Frame: 2873, Episode 22
