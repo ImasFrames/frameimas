@@ -2877,3 +2877,18 @@
 [X] Frame: 2873, Episode 23
 [X] Frame: 2873, Episode 23
 [X] Frame: 2873, Episode 23
+[√] Frame: 1, Episode 23 https://facebook.com/703056931863113
+[√] Frame: 2, Episode 23 https://facebook.com/703057641863042
+[√] Frame: 3, Episode 23 https://facebook.com/703058588529614
+[√] Frame: 4, Episode 23 https://facebook.com/703059308529542
+[√] Frame: 5, Episode 23 https://facebook.com/703059965196143
+[√] Frame: 6, Episode 23 https://facebook.com/703060738529399
+[√] Frame: 7, Episode 23 https://facebook.com/703061425195997
+[√] Frame: 8, Episode 23 https://facebook.com/703062101862596
+[√] Frame: 9, Episode 23 https://facebook.com/703062765195863
+[√] Frame: 10, Episode 23 https://facebook.com/703063515195788
+[√] Frame: 11, Episode 23 https://facebook.com/703064168529056
+[√] Frame: 12, Episode 23 https://facebook.com/703064805195659
+[√] Frame: 13, Episode 23 https://facebook.com/703065488528924
+[√] Frame: 14, Episode 23 https://facebook.com/703066201862186
+[√] Frame: 15, Episode 23 https://facebook.com/703066905195449
