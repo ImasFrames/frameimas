@@ -9865,3 +9865,7 @@
 [√] Frame: 1227, Episode 24 https://facebook.com/729412772560862
 [√] Frame: 1228, Episode 24 https://facebook.com/729413722560767
 [√] Frame: 1229, Episode 24 https://facebook.com/729414819227324
+[√] Frame: 1230, Episode 24 https://facebook.com/729460479222758
+[√] Frame: 1231, Episode 24 https://facebook.com/729461632555976
+[√] Frame: 1232, Episode 24 https://facebook.com/729462752555864
+[X] Frame: 1233, Episode 24
