@@ -16902,3 +16902,18 @@
 [√] Frame: 2521, Episode 25 https://facebook.com/755639176604888
 [√] Frame: 2522, Episode 25 https://facebook.com/755639823271490
 [X] Frame: 2523, Episode 25
+[√] Frame: 2523, Episode 25 https://facebook.com/755681099934029
+[√] Frame: 2524, Episode 25 https://facebook.com/755681926600613
+[√] Frame: 2525, Episode 25 https://facebook.com/755682756600530
+[√] Frame: 2526, Episode 25 https://facebook.com/755683736600432
+[√] Frame: 2527, Episode 25 https://facebook.com/755684433267029
+[√] Frame: 2528, Episode 25 https://facebook.com/755685249933614
+[√] Frame: 2529, Episode 25 https://facebook.com/755686026600203
+[√] Frame: 2530, Episode 25 https://facebook.com/755686829933456
+[√] Frame: 2531, Episode 25 https://facebook.com/755687549933384
+[√] Frame: 2532, Episode 25 https://facebook.com/755688736599932
+[√] Frame: 2533, Episode 25 https://facebook.com/755689663266506
+[√] Frame: 2534, Episode 25 https://facebook.com/755690619933077
+[√] Frame: 2535, Episode 25 https://facebook.com/755691619932977
+[√] Frame: 2536, Episode 25 https://facebook.com/755692486599557
+[√] Frame: 2537, Episode 25 https://facebook.com/755693353266137
