@@ -16899,3 +16899,6 @@
 [√] Frame: 2518, Episode 25 https://facebook.com/755608756607930
 [√] Frame: 2519, Episode 25 https://facebook.com/755610053274467
 [√] Frame: 2520, Episode 25 https://facebook.com/755610723274400
+[√] Frame: 2521, Episode 25 https://facebook.com/755639176604888
+[√] Frame: 2522, Episode 25 https://facebook.com/755639823271490
+[X] Frame: 2523, Episode 25
