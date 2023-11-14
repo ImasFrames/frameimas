@@ -19107,3 +19107,23 @@
 [√] Frame: 471, Episode 26 https://facebook.com/766207668881372
 [√] Frame: 472, Episode 26 https://facebook.com/766208385547967
 [X] Frame: 473, Episode 26
+[√] Frame: 473, Episode 26 https://facebook.com/766232012212271
+[√] Frame: 474, Episode 26 https://facebook.com/766232822212190
+[√] Frame: 475, Episode 26 https://facebook.com/766233655545440
+[√] Frame: 476, Episode 26 https://facebook.com/766234575545348
+[√] Frame: 477, Episode 26 https://facebook.com/766235382211934
+[√] Frame: 478, Episode 26 https://facebook.com/766236345545171
+[√] Frame: 479, Episode 26 https://facebook.com/766237022211770
+[√] Frame: 480, Episode 26 https://facebook.com/766237995545006
+[√] Frame: 481, Episode 26 https://facebook.com/766238848878254
+[√] Frame: 482, Episode 26 https://facebook.com/766239602211512
+[√] Frame: 483, Episode 26 https://facebook.com/766240395544766
+[√] Frame: 484, Episode 26 https://facebook.com/766241172211355
+[√] Frame: 485, Episode 26 https://facebook.com/766242182211254
+[√] Frame: 486, Episode 26 https://facebook.com/766243402211132
+[√] Frame: 487, Episode 26 https://facebook.com/766244182211054
+[√] Frame: 488, Episode 26 https://facebook.com/766244908877648
+[√] Frame: 489, Episode 26 https://facebook.com/766245502210922
+[√] Frame: 490, Episode 26 https://facebook.com/766246278877511
+[√] Frame: 491, Episode 26 https://facebook.com/766246945544111
+[√] Frame: 492, Episode 26 https://facebook.com/766247722210700
